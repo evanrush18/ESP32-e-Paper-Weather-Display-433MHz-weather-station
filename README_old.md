@@ -1,11 +1,3 @@
-# ESP32-e-Paper-Weather-Display-433MHz-weather-station
-The goal of this project is to take the e-paper code from the old repo and use it to display weather data from my personal weather station. 
-
-Old readme below
-
----
-
-
 # ESP32-e-Paper-Weather-Display
 An ESP32 and an ePaper Display reads [Open Weather Map](https://openweathermap.org/) and displays the weather
 
